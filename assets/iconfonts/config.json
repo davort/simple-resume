@@ -1,0 +1,225 @@
+{
+  "name": "dtresume",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "glyphs": [
+    {
+      "search": [
+        "dribbble"
+      ],
+      "code": 68,
+      "uid": "003ba8187d6b00ec3e1ba75d00f1246a",
+      "css": "dribbble",
+      "orig_css": "dribbble",
+      "orig_code": 68,
+      "src": "zocial",
+      "from": 68
+    },
+    {
+      "search": [
+        "twitter"
+      ],
+      "code": 84,
+      "uid": "b1ec8e90c2c85cf0035849980a3789b3",
+      "css": "twitter",
+      "orig_css": "twitter",
+      "orig_code": 84,
+      "src": "zocial",
+      "from": 84
+    },
+    {
+      "search": [
+        "mail",
+        "email"
+      ],
+      "code": 57369,
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail",
+      "orig_css": "mail",
+      "orig_code": 57369,
+      "src": "linecons",
+      "from": 57369
+    },
+    {
+      "search": [
+        "calendar",
+        "date"
+      ],
+      "code": 57387,
+      "uid": "43e4647c57186b5e06874621b5e665be",
+      "css": "calendar",
+      "orig_css": "calendar",
+      "orig_code": 57387,
+      "src": "linecons",
+      "from": 57387
+    },
+    {
+      "search": [
+        "social",
+        "logo",
+        "github"
+      ],
+      "code": 57526,
+      "uid": "aa18911cd641967c899c575aeb80cd7e",
+      "css": "github-1",
+      "orig_css": "github",
+      "orig_code": 57526,
+      "src": "elusive",
+      "from": 57526
+    },
+    {
+      "search": [
+        "social",
+        "logo",
+        "github"
+      ],
+      "code": 57573,
+      "uid": "798f480ad47c7c7fa6c64ece88ea2180",
+      "css": "github-text",
+      "orig_css": "github-text",
+      "orig_code": 57573,
+      "src": "elusive",
+      "from": 57573
+    },
+    {
+      "search": [
+        "print"
+      ],
+      "code": 59158,
+      "uid": "28f124a10127a47b9d9472699193d75a",
+      "css": "print",
+      "orig_css": "print",
+      "orig_code": 59158,
+      "src": "entypo",
+      "from": 59158
+    },
+    {
+      "search": [
+        "compass"
+      ],
+      "code": 59176,
+      "uid": "c117f17c0316ef71fb2a658c4c273002",
+      "css": "compass",
+      "orig_css": "compass",
+      "orig_code": 59176,
+      "src": "entypo",
+      "from": 59176
+    },
+    {
+      "search": [
+        "angle",
+        "up"
+      ],
+      "code": 61702,
+      "uid": "5de9370846a26947e03f63142a3f1c07",
+      "css": "angle-up",
+      "orig_css": "angle-up",
+      "orig_code": 61702,
+      "src": "fontawesome",
+      "from": 61702
+    },
+    {
+      "search": [
+        "github",
+        "social",
+        "logo"
+      ],
+      "code": 62208,
+      "uid": "d94334f23acba022bfd68e49d76b31bb",
+      "css": "github",
+      "orig_css": "github",
+      "orig_code": 62208,
+      "src": "entypo",
+      "from": 62208
+    },
+    {
+      "search": [
+        "skype"
+      ],
+      "code": 62219,
+      "from": 62219,
+      "uid": "a25ef3626c7bd7031709a8264f280bfe",
+      "css": "skype",
+      "orig_css": "skype",
+      "orig_code": 62219,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "deviantart"
+      ],
+      "code": 62230,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "d04790a0ec2d11e1aff10800200c9a66",
+      "file": "deviantart",
+      "transform": {
+        "rescale": 1.2,
+        "offset": -0.025
+      },
+      "css": "deviantart",
+      "orig_css": "deviantart",
+      "orig_code": 62230,
+      "src": "brandico",
+      "from": 62230
+    },
+    {
+      "search": [
+        "linkedin"
+      ],
+      "code": 62235,
+      "meta": {
+        "homepage": "http://openiconlibrary.sourceforge.net",
+        "author": "Open Icon Library"
+      },
+      "uid": "e9e96618b0f44170930f9b179237c76e",
+      "file": "linkedin-rect",
+      "css": "linkedin",
+      "orig_css": "linkedin-rect",
+      "orig_code": 62235,
+      "src": "brandico",
+      "from": 62235
+    },
+    {
+      "search": [
+        "instagram",
+        "social",
+        "logo"
+      ],
+      "code": 62253,
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "orig_css": "instagram",
+      "orig_code": 62253,
+      "src": "entypo",
+      "from": 62253
+    },
+    {
+      "search": [
+        "download"
+      ],
+      "code": 128229,
+      "uid": "b08cfe8039de2ce815686aced2caef06",
+      "css": "download",
+      "orig_css": "download",
+      "orig_code": 128229,
+      "src": "entypo",
+      "from": 128229
+    },
+    {
+      "search": [
+        "link",
+        "url"
+      ],
+      "code": 128279,
+      "uid": "815503841e980c848f55e0271deacead",
+      "css": "link",
+      "orig_css": "link",
+      "orig_code": 128279,
+      "src": "entypo",
+      "from": 128279
+    }
+  ]
+}
